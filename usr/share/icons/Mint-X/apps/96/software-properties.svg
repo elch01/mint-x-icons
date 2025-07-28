@@ -828,7 +828,7 @@
          style="fill:#ffffff;fill-opacity:1;stroke:none" />
     </clipPath>
   </defs>
-  <metadata
+                          <metadata
      id="metadata2413">
     <rdf:RDF>
       <cc:Work
@@ -836,6 +836,8 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <cc:license
+           rdf:resource="https://www.gnu.org/licenses/gpl-3.0.html" />
       </cc:Work>
     </rdf:RDF>
   </metadata>

@@ -17,14 +17,16 @@
    inkscape:version="0.46"
    sodipodi:docname="brasero-disc-00.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape">
-  <metadata
-     id="metadata71">
+                                                              <metadata
+     id="metadata2413">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <cc:license
+           rdf:resource="https://www.gnu.org/licenses/gpl-3.0.html" />
       </cc:Work>
     </rdf:RDF>
   </metadata>

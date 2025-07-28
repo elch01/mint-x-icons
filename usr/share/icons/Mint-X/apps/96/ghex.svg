@@ -464,7 +464,7 @@
        y2="-36.472889"
        gradientTransform="matrix(0.50215513,-0.10840057,0.10840057,0.50215513,99.334335,38.152324)" />
   </defs>
-  <metadata
+      <metadata
      id="metadata2413">
     <rdf:RDF>
       <cc:Work
@@ -472,7 +472,8 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <cc:license
+           rdf:resource="https://www.gnu.org/licenses/gpl-3.0.html" />
       </cc:Work>
     </rdf:RDF>
   </metadata>

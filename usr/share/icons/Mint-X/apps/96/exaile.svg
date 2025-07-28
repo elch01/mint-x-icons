@@ -349,7 +349,7 @@
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(0.56634913,-1.2709596e-6,9.9117804e-7,0.43979014,-161.83162,-22.535748)" />
   </defs>
-  <metadata
+      <metadata
      id="metadata2413">
     <rdf:RDF>
       <cc:Work
@@ -357,6 +357,8 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <cc:license
+           rdf:resource="https://www.gnu.org/licenses/gpl-3.0.html" />
       </cc:Work>
     </rdf:RDF>
   </metadata>

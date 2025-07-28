@@ -111,12 +111,16 @@
     <radialGradient inkscape:collect="always" xlink:href="#linearGradient3210-3" id="radialGradient4095" gradientUnits="userSpaceOnUse" gradientTransform="matrix(2.337683,1.3056358e-8,0,1.5043095,-49.579785,-79.996709)" cx="37.063927" cy="51.537781" fx="37.063927" fy="51.537781" r="41"/>
   </defs>
   <sodipodi:namedview id="base" pagecolor="#ffffff" bordercolor="#666666" borderopacity="1.0" inkscape:pageopacity="0.0" inkscape:pageshadow="2" inkscape:zoom="5.5" inkscape:cx="19.934659" inkscape:cy="59.87013" inkscape:current-layer="layer1" showgrid="true" inkscape:document-units="px" inkscape:grid-bbox="true" inkscape:window-width="1218" inkscape:window-height="755" inkscape:window-x="251" inkscape:window-y="130" inkscape:window-maximized="0"/>
-  <metadata id="metadata28111">
+    <metadata
+     id="metadata2413">
     <rdf:RDF>
-      <cc:Work rdf:about="">
+      <cc:Work
+         rdf:about="">
         <dc:format>image/svg+xml</dc:format>
-        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-        <dc:title/>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <cc:license
+           rdf:resource="https://www.gnu.org/licenses/gpl-3.0.html" />
       </cc:Work>
     </rdf:RDF>
   </metadata>

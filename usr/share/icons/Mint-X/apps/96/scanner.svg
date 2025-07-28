@@ -80,12 +80,16 @@
     <linearGradient x1="77.725983" y1="83.088936" x2="77.725983" y2="87.040337" id="linearGradient4115" xlink:href="#linearGradient4098" gradientUnits="userSpaceOnUse" gradientTransform="translate(-1,0)"/>
     <linearGradient x1="47" y1="68" x2="47" y2="64" id="linearGradient4133" xlink:href="#linearGradient4135" gradientUnits="userSpaceOnUse" gradientTransform="translate(0,2)"/>
   </defs>
-  <metadata id="metadata2413">
+          <metadata
+     id="metadata2413">
     <rdf:RDF>
-      <cc:Work rdf:about="">
+      <cc:Work
+         rdf:about="">
         <dc:format>image/svg+xml</dc:format>
-        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-        <dc:title/>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <cc:license
+           rdf:resource="https://www.gnu.org/licenses/gpl-3.0.html" />
       </cc:Work>
     </rdf:RDF>
   </metadata>

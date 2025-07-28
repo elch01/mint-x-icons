@@ -778,12 +778,16 @@
   <sodipodi:namedview id="base" pagecolor="#c1c1c1" bordercolor="#666666" borderopacity="1.0" inkscape:pageopacity="1" inkscape:pageshadow="2" inkscape:zoom="22.197802" inkscape:cx="5.6368336" inkscape:cy="12.705187" inkscape:current-layer="layer1" showgrid="true" inkscape:grid-bbox="true" inkscape:document-units="px" inkscape:window-width="985" inkscape:window-height="691" inkscape:window-x="493" inkscape:window-y="155" inkscape:window-maximized="0" inkscape:snap-bbox="false" inkscape:snap-global="false">
     <inkscape:grid type="xygrid" id="grid3017" empspacing="5" visible="true" enabled="true" snapvisiblegridlinesonly="true"/>
   </sodipodi:namedview>
-  <metadata id="metadata10999">
+            <metadata
+     id="metadata2413">
     <rdf:RDF>
-      <cc:Work rdf:about="">
+      <cc:Work
+         rdf:about="">
         <dc:format>image/svg+xml</dc:format>
-        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-        <dc:title/>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <cc:license
+           rdf:resource="https://www.gnu.org/licenses/gpl-3.0.html" />
       </cc:Work>
     </rdf:RDF>
   </metadata>

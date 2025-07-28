@@ -485,12 +485,16 @@
   <sodipodi:namedview id="base" pagecolor="#c1c1c1" bordercolor="#666666" borderopacity="1.0" inkscape:pageopacity="1" inkscape:pageshadow="2" inkscape:zoom="22.197802" inkscape:cx="13.160101" inkscape:cy="12.705187" inkscape:current-layer="layer1" showgrid="true" inkscape:grid-bbox="true" inkscape:document-units="px" inkscape:window-width="1920" inkscape:window-height="1030" inkscape:window-x="0" inkscape:window-y="0" inkscape:window-maximized="1" inkscape:snap-bbox="false" inkscape:snap-global="false">
     <inkscape:grid type="xygrid" id="grid3017" empspacing="5" visible="true" enabled="true" snapvisiblegridlinesonly="true"/>
   </sodipodi:namedview>
-  <metadata id="metadata10999">
+      <metadata
+     id="metadata2413">
     <rdf:RDF>
-      <cc:Work rdf:about="">
+      <cc:Work
+         rdf:about="">
         <dc:format>image/svg+xml</dc:format>
-        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-        <dc:title/>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <cc:license
+           rdf:resource="https://www.gnu.org/licenses/gpl-3.0.html" />
       </cc:Work>
     </rdf:RDF>
   </metadata>
