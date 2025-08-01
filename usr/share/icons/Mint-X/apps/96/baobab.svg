@@ -2,14 +2,35 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
    version="1.0"
    width="96"
    height="96"
-   id="svg2408">
-            <metadata
+   id="svg2408"
+   sodipodi:docname="baobab.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <sodipodi:namedview
+     id="namedview158"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="9.2395833"
+     inkscape:cx="48"
+     inkscape:cy="47.945885"
+     inkscape:current-layer="svg2408" />
+  <metadata
      id="metadata2413">
     <rdf:RDF>
       <cc:Work
@@ -170,7 +191,7 @@
     </linearGradient>
     <filter
        x="-0.29508197"
-       y="-0.46153846"
+       y="-0.46153845"
        width="1.5901639"
        height="1.9230769"
        color-interpolation-filters="sRGB"
@@ -181,7 +202,11 @@
     </filter>
     <filter
        color-interpolation-filters="sRGB"
-       id="filter3174">
+       id="filter3174"
+       x="-0.047720931"
+       y="-0.048282354"
+       width="1.0954419"
+       height="1.0965647">
       <feGaussianBlur
          id="feGaussianBlur3176"
          stdDeviation="1.71" />
@@ -310,9 +335,9 @@
        gradientUnits="userSpaceOnUse" />
     <filter
        x="-0.12267826"
-       y="-0.17991199"
-       width="1.2453564"
-       height="1.3598239"
+       y="-0.17991198"
+       width="1.2453565"
+       height="1.359824"
        color-interpolation-filters="sRGB"
        id="filter3642">
       <feGaussianBlur
@@ -421,7 +446,11 @@
     </linearGradient>
     <filter
        color-interpolation-filters="sRGB"
-       id="filter3838">
+       id="filter3838"
+       x="-0.04570234"
+       y="-0.050540913"
+       width="1.0914047"
+       height="1.1010818">
       <feGaussianBlur
          id="feGaussianBlur3840"
          stdDeviation="1.1428534" />
