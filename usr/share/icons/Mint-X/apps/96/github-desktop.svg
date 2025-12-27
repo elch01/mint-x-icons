@@ -26,9 +26,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
-     inkscape:zoom="1.4142136"
-     inkscape:cx="-164.75588"
-     inkscape:cy="166.52365"
+     inkscape:zoom="2.0000001"
+     inkscape:cx="-129"
+     inkscape:cy="34.249999"
      inkscape:current-layer="svg2408" />
   <defs
      id="defs2410">
@@ -49,22 +49,22 @@
        id="linearGradient1625">
       <stop
          style="stop-color:#ffffff;stop-opacity:1;"
-         offset="0"
+         offset="0.33791456"
          id="stop1621" />
       <stop
          style="stop-color:#ffffff;stop-opacity:0;"
-         offset="0.6732161"
+         offset="0.94301808"
          id="stop1623" />
     </linearGradient>
     <linearGradient
        inkscape:collect="always"
        id="linearGradient1700">
       <stop
-         style="stop-color:#c4c5d1;stop-opacity:1;"
+         style="stop-color:#e3e3e8;stop-opacity:1;"
          offset="0"
          id="stop1696" />
       <stop
-         style="stop-color:#c4c5d1;stop-opacity:1;"
+         style="stop-color:#e2e3e9;stop-opacity:1;"
          offset="1"
          id="stop1698" />
     </linearGradient>
